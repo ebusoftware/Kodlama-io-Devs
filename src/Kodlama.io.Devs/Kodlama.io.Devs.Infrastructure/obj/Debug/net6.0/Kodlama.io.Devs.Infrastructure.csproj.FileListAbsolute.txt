@@ -1,0 +1,12 @@
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\Kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\bin\Debug\net6.0\Kodlama.io.Devs.Infrastructure.deps.json
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\Kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\bin\Debug\net6.0\Kodlama.io.Devs.Infrastructure.dll
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\Kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\bin\Debug\net6.0\Kodlama.io.Devs.Infrastructure.pdb
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\Kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\Kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\Kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\Kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.AssemblyInfo.cs
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\Kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\Kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.dll
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\Kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\refint\Kodlama.io.Devs.Infrastructure.dll
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\Kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.pdb
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\Kodlama.io.Devs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\ref\Kodlama.io.Devs.Infrastructure.dll

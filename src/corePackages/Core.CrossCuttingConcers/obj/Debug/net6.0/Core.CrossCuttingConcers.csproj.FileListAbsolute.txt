@@ -1,0 +1,12 @@
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\bin\Debug\net6.0\Core.CrossCuttingConcers.deps.json
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\bin\Debug\net6.0\Core.CrossCuttingConcers.dll
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\bin\Debug\net6.0\Core.CrossCuttingConcers.pdb
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcers.csproj.AssemblyReference.cache
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcers.AssemblyInfoInputs.cache
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcers.AssemblyInfo.cs
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcers.csproj.CoreCompileInputs.cache
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcers.dll
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\refint\Core.CrossCuttingConcers.dll
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcers.pdb
+C:\Users\e3b8u\Desktop\yazılım\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\ref\Core.CrossCuttingConcers.dll
